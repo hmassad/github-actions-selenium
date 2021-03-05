@@ -11,7 +11,7 @@
 	<groupId>com.canix</groupId>
 	<artifactId>github-actions-selenium</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>tests</name>
+	<name>github-actions-selenium</name>
 	<description>POC selenium in github actions</description>
 	<properties>
 		<java.version>1.8</java.version>
